@@ -108,3 +108,4 @@ test.py
 .vscode/
 tmp/
 setting.py
+node_modules/
